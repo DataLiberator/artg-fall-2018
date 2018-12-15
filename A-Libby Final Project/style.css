@@ -1,0 +1,73 @@
+.hereTooltip{
+	position:absolute;
+	text-align: left;     
+	width: 150px;          
+	height: 30px;         
+	padding: 5px;
+	background:#fff;
+	opacity:0.9;       
+	font: 12px sans-serif;
+	font-weight: bold;    
+	border: 0px;        
+	pointer-events: none;
+
+} 
+
+.container{
+	margin-left:50px;
+}
+
+.myTitle{
+	font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-size:25pt;
+	font-weight: bold;
+	margin-bottom:0px;
+}
+
+.subtitle{
+	font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-size:15pt;
+	font-style:italic;
+	margin-top:0px;
+}
+
+.plot{
+	width:80%;
+	height:100%;
+	position:absolute;
+	top:110px;
+	left:18%;
+}
+
+.plot-2{
+	width:15%;
+	height:500px;
+	font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-size:10pt;
+}
+
+.plot-3{
+	width:180px;
+	height:180px;
+	position:absolute;
+	top:110px;
+	right:50px;
+	background-color:lightgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -6,6 +6,12 @@ html,body,h1,h2,h3,div,p,ul,li{
 .chart{
 	width:900px;
 	height:500px;
-	background:red;
+	background:lightgray;
 	margin:auto;
+}
+
+.circles{
+	stroke:blue;
+	stroke-width:2px;
+	fill:none;
 }

@@ -1,0 +1,61 @@
+body {
+ width: 100%;
+ height: 100%;
+}
+
+.container{
+	width:100%;
+	height:100%;
+	background: lightgray;
+}
+
+.sidebar{
+	width:30%;
+	height:100%-100px;
+}
+
+.mainViz {
+	position: absolute;
+	top: 1.5%;
+	left:30.75%;
+	background: salmon;
+	width:70%;
+	height:815px;
+	border:2px solid white;
+}
+
+.footer{
+	position:absolute;
+	bottom:0px;
+	background:black;
+	width:100%
+	height:100px; /*says no height here*/
+}
+
+#module1{
+	background:darkgray;
+	width:100%;
+	height:200px;
+	border:2px solid white;
+}
+
+#module2{
+	background:darkgray;
+	width:100%;
+	height:200px;
+	border:2px solid white;
+}
+
+#module3{
+	background:darkgray;
+	width:100%;
+	height:200px;
+	border:2px solid white;
+}
+
+#module4{
+	background:darkgray;
+	width:100%;
+	height:200px;
+	border:2px solid white;
+}
